@@ -876,7 +876,7 @@ func (c *Clop) bindStruct() error {
 
 		if err := c.parseOneOption(&i); err != nil {
 			continue
-			//return err
+			////return err
 		}
 
 	}
